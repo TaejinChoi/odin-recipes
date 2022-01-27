@@ -1,0 +1,22 @@
+.top-title {
+    background-color: rgb(223, 183, 255);
+    color: white;
+}
+
+.xian-bing {
+    background-color: rgb(179, 186, 245);
+    font-size: 30px;
+    font-style: italic;
+}
+
+.omelette {
+    background-color: wheat;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.damper {
+    background-color: rgb(181, 255, 172);
+    font-size: 30px;
+    font-style: italic;
+}
